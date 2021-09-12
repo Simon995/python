@@ -9,6 +9,7 @@ while True:
           '4:退出系统')
     print('-'*50)
     dic={}
+    
     sr = input('请输入所要执行的序号:')
     if sr == '4':
         print('程序退出中……！')

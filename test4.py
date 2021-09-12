@@ -1,5 +1,6 @@
 from turtle import *
 
+
 def drawStar(x, y):
     pu()
     goto(x, y)
